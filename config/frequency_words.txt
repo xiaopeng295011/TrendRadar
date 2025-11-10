@@ -10,6 +10,8 @@
 POCT (即时检验) (Point-of-Care Testing)
 人工智能 (AI) + 医学检验 / 智慧实验室
 实验室自动化 (TLA) (Total Laboratory Automation)
+医疗AI
+Nature Scinece检验医学相关信息
 
 医保局
 医保政策、飞检、立项指南
@@ -60,23 +62,7 @@ CACLP (中国国际检验医学暨输血仪器试剂博览会)
 
 职业发展
 IVD公司裁员、组织优化调整
-
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-ai
-!gai
-人工智能
+医疗八卦
 
 
 
