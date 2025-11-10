@@ -1,65 +1,66 @@
-胖东来
-于东来
+检验医学
+分子诊断 (Molecular Diagnostics)
+基因测序 (Gene Sequencing) / 高通量测序 (NGS)
+数字PCR (dPCR) / CRISPR诊断
+液体活检 (Liquid Biopsy) / 循环肿瘤DNA (ctDNA)
+质谱分析 (Mass Spectrometry)
+单细胞测序 (Single-Cell Sequencing)
+化学发光 (Chemiluminescence)
+微流控 (Microfluidics)
+POCT (即时检验) (Point-of-Care Testing)
+人工智能 (AI) + 医学检验 / 智慧实验室
+实验室自动化 (TLA) (Total Laboratory Automation)
 
-DeepSeek
-梁文锋
+医保局
+医保政策、飞检、立项指南
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+国家卫健委
+政策、指南、法规
 
-比亚迪
-王传福
+政策与市场
+体外诊断 + 集采 (集中采购)
+IVD + 国产替代
+医疗器械注册人制度
+LDT (实验室自建项目)
+医疗反腐 / 合规
+医保控费 / DRG/DIP (按病种分值付费)
+第三方医学实验室 (ICL)
+IVDR (欧盟体外诊断医疗器械法规)
+出海 / 国际化
 
-大疆
-DJI
+产业与资本
+IVD + 融资 / IPO / 并购
+企业财报 (例如：迈瑞、安图、新产业)
+战略合作 / 产业协同
+供应链 / 核心原料
+CDMO (合同开发和制造组织)
+CACLP (中国国际检验医学暨输血仪器试剂博览会)
 
-宇树
-王兴兴
+临床应用与科室管理
+肿瘤标志物 / 伴随诊断
+感染性疾病 / 微生物检测
+慢病管理 / 心血管标志物
+自身免疫性疾病
+精准医疗 / 个性化用药
+智慧实验室 / 数智化转型
+检验结果互认
+检验科高质量发展
+临床沟通 / 检验医师
+行业会议
+科研方向
+开展新项目
 
-智元
-灵犀
-稚晖君
-彭志辉
+年度与趋势
+2025 / 2026 (或其他目标年份)
+发展趋势 (Development Trend)
+行业报告 (Industry Report) / 市场规模 (Market Size)
+白皮书 (White Paper)
+热点事件 (Hot Events)
+未来 (Future) / 展望 (Outlook)
 
-黑神话
-冯骥
+职业发展
+IVD公司裁员、组织优化调整
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
@@ -73,41 +74,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
 
-自动驾驶
 
-机器人
 
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
