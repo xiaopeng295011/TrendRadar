@@ -1,6 +1,6 @@
 检验医学
-分子诊断 (Molecular Diagnostics)
-基因测序 (Gene Sequencing) / 高通量测序 (NGS)
+分子诊断
+基因测序 / 高通量测序 (NGS)
 数字PCR (dPCR) / CRISPR诊断
 液体活检 (Liquid Biopsy) / 循环肿瘤DNA (ctDNA)
 质谱分析 (Mass Spectrometry)
@@ -16,7 +16,8 @@ Nature Scinece检验医学相关信息
 医院管理
 检验科招标
 
-医保局
+国家医保
+各个省份医保
 医保政策、飞检、立项指南
 
 国家卫健委
